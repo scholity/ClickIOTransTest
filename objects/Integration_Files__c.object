@@ -222,10 +222,10 @@
         <customTabListAdditionalFields>Target_System__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>File_Name__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>Sequence_Number__c</customTabListAdditionalFields>
-        <excludedStandardButtons>MassChangeOwner</excludedStandardButtons>
         <excludedStandardButtons>OpenListInQuip</excludedStandardButtons>
         <excludedStandardButtons>Accept</excludedStandardButtons>
         <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
+        <excludedStandardButtons>MassChangeOwner</excludedStandardButtons>
         <lookupDialogsAdditionalFields>Target_System__c</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>File_Name__c</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>Sequence_Number__c</lookupDialogsAdditionalFields>

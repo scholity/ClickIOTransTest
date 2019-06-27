@@ -1,4 +1,4 @@
-@istest
+@isTest
 public class sendCSVToCFSTest 
 {
     static testMethod void testGetRestService()
